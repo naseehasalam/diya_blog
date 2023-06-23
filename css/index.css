@@ -1,5 +1,23 @@
-div{
-    background-color:darkslategrey;
-    color:aliceblue;
+*{
+    font-family: 'Times New Roman', Times, serif;
+    color: aliceblue;
+    margin:10px;
 }
 
+.welcomeBanner{
+    background-color: black;
+    padding:15px;
+    text-align: center;
+}
+.blogInfo{
+    background-color: darkslategray;
+    padding:1px;
+}
+
+.blogInfo ul{
+    margin-bottom: 0;
+}
+
+a{
+    margin:0%;
+}
